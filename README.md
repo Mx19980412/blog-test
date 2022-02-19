@@ -36,12 +36,12 @@
 ## 个人博客
 （还在持续更新中哦~~~）
 
-[我的博客笔记](https://www.yuque.com/mx0412)
+[我的博客笔记](https://www.yuque.com/mx980412)
 
 ![Mx的个人博客](个人博客.png)
 
 
-[我的GitHub](https://github.com/Mx19980412)
+[我的GitHub](https://github.com/Mx980412)
 
 ![Mx的GitHub](GitHub.png)
 
