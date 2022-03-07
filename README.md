@@ -38,12 +38,12 @@
 
 [我的博客笔记](https://www.yuque.com/mx980412)
 
-![Mx的个人博客](images/个人博客.png)
+![Mx的个人博客](image/个人博客.png)
 
 
 [我的GitHub](https://github.com/Mx980412)
 
-![Mx的GitHub](images/GitHub.png)
+![Mx的GitHub](image/GitHub.png)
 
 
 
