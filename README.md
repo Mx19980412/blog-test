@@ -17,7 +17,7 @@
 * CSS
 * HTTP
 * JS
-* JS编程接口：DOM、jQuery、DOM事件
+* JS编程接口：DOM、jQuery
 * 前后端分离：AJAX与跨域
 * JS进阶：MVC
 * 项目构建：Webpack
@@ -47,4 +47,4 @@ f()
 
 [Mx的GitHub](https://github.com/Mx980412)
 
-![Mx的GitHub](image/Mx的GitHub.png)
+![Mx的GitHub](image/MX的GitHub.png)
