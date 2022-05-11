@@ -1,51 +1,50 @@
-# Mx的自我介绍
+# Mx的blog博客
 
 ## 个人简介
-* 姓名：胡棉鑫😀
-* 性别：男🚹
-* 籍贯：广东汕头🏠
-* 生日：1998.04.12
-* 职业：一名有灵魂的前端工程师（努力中💪）
+1. 姓名：胡棉鑫
+2. 性别：男
+3. 生日：1998.04.12
+4. 籍贯：广东汕头
+5. 职业：前端工程师👨‍💻
 
 ## 爱好
-1. 打篮球🏀（从小到现在一直不变的爱好）
-2. 玩吃鸡游戏游戏🔫（又菜又爱玩的那种）
-3. 目前还是一名小白前端，渐渐喜欢上敲代码，希望也能成为爱好
+1. 打篮球🏀
+2. 玩吃鸡游戏
    
 ## 编程语言
-说来惭愧，都不好意思说我是科班出生的（想挖个墙角钻进去）
-现在只会命令行，git，html
-那我写一点咯~
+* 命令行、Git
+* HTML
+* CSS
+* HTTP
+* JS
+* JS编程接口：DOM、jQuery、DOM事件
+* 前后端分离：AJAX与跨域
+* JS进阶：MVC
+* 项目构建：Webpack
+* 算法与数据结构
+* Vue
+* React
+* Node.js
 
-`<h1></h1>`
+### 代码示例
+`<h1>hello world</h1>`
 
-好像有点短，那就再多写一点哈哈
-```html
-<html>
-    <head>
-        <title>这是标题</title>
-    </head>
-    <body>
-        <h1>这是1级标题</h1>
-        <p>这是段落</P>
-    <body>
-</html>
+```JavaScript
+function f(){
+  console.log('做一名有灵魂的前端工程师👨‍💻')
+}
+
+f()
 ```
-看来还是得继续啃代码啦，不在这献丑啦/(ㄒoㄒ)/~~
 
-## 个人博客
-（还在持续更新中哦~~~）
+## 个人博客&GitHub
+（还在持续更新中~~~）
 
-[我的博客笔记](https://www.yuque.com/mx980412)
+[Mx的博客](https://www.yuque.com/mx980412)
 
-![Mx的个人博客](image/个人博客.png)
+![Mx的博客](image/Mx的博客.png)
 
 
-[我的GitHub](https://github.com/Mx980412)
+[Mx的GitHub](https://github.com/Mx980412)
 
-![Mx的GitHub](image/GitHub.png)
-
-## 目标
-希望下次翻看这个博客的我，是一个越来越牛批的码农👨
-
-奥利给🎈
+![Mx的GitHub](image/Mx的GitHub.png)
