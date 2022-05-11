@@ -30,11 +30,11 @@
 `<h1>hello world</h1>`
 
 ```JavaScript
-function f(){
+function Mx(){
   console.log('做一名有灵魂的前端工程师👨‍💻')
 }
 
-f()
+Mx()
 ```
 
 ## 个人博客&GitHub
